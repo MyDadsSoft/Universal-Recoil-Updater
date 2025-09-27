@@ -1,4 +1,4 @@
 {
-  "version": "20.8.0",
-  "changelog": "Added F3 to the showcase for spam crouch."
+  "version": "21.9.1",
+  "changelog": "Made it so it now doesnt auto select ash on start up."
 }
